@@ -53,7 +53,9 @@ I wanted to make a Twine game to go alongside the map I made, in which a player 
 ## Bibliography
 
 Seleon. “Doing Digital History” [photograph]. (2015). https://www.google.com/imgres?imgurl=http%3A%2F%2Fhistory2014.doingdh.org%2Fwp-content%2Fuploads%2Fsites%2F2%2F2014%2F01%2Fcopy-computing_cropped2.jpg&imgrefurl=http%3A%2F%2Fhistory2014.doingdh.org%2F&tbnid=howYnpCluGq33M&vet=12ahUKEwirpbquorv4AhVdFVkFHfb4CKwQMygJegUIARDEAQ..i&docid=0uxcoHuaffGJJM&w=1440&h=440&q=digital%20history&ved=2ahUKEwirpbquorv4AhVdFVkFHfb4CKwQMygJegUIARDEAQ. 
+
 Hitchcock, T. (2013). Big Data for Dead People: Digital Readings and the conundrums of positivism. https://historyonics.blogspot.com/2013/12/big-data-for-dead-people-digital.html.  
+
 Bright, Abbie. (1868-1921). Abbie Bright Diary. 
 
 Leon, Sharon. (2019).  “Returning Women to the History of Digital History.” http://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/.
