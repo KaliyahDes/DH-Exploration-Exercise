@@ -25,7 +25,7 @@ I then placed this at the terminal/command prompt: $ wget -i urls.txt -r --no-pa
 And it worked! Wget was now able to retrieve the content of Abbie Bright’s diary from the web. 
 
 **Success!**
-![](https://keep.google.com/u/0/media/v2/18huex8x_eSxTKV4d8qzRmMz0iEIkITQbWpZxkiYi0Nj1sn0HlxzooBwuOOhd8A/11GV9qFgpPHhgCJkarzK-hcZIYZ1WujVnf8W6QCUv6dSU1wRuCkHSC_Z2v0mt2jk?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
+[](https://keep.google.com/u/0/media/v2/18huex8x_eSxTKV4d8qzRmMz0iEIkITQbWpZxkiYi0Nj1sn0HlxzooBwuOOhd8A/11GV9qFgpPHhgCJkarzK-hcZIYZ1WujVnf8W6QCUv6dSU1wRuCkHSC_Z2v0mt2jk?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
 
 ### Voyant:
 When I attempted to place the file into Voyant, I was met with this error:
@@ -61,8 +61,8 @@ Patriarchy/Male dominance/Historical trend of male dominance
 Mostly uses words like men, Mr, brother, and boys, and a lack of female-based words like women, girls, and woman.
 
 ### Google Maps 
-Working with Google Maps to articulate the West travels of Anne Bright was, in certain aspects, challenging. I started off looking through [Bright’s Diaries](http://www.kansasmemory.org/item/223662) using Voyant and [this](https://www.kshs.org/p/abbie-bright-papers/13986) source (which is the same website that Bright’s digital archives were retrieved) to find the timeline and location of her travels. After accumulating the data, I organized it using Google sheet, which I learned to use for the first time by referencing the example []() provided within the _Point Map with Google Maps_ tutorial. Here is the Google Sheets i created:
-
+Working with Google Maps to articulate the West travels of Anne Bright was, in certain aspects, challenging. I started off looking through [Bright’s Diaries](http://www.kansasmemory.org/item/223662) using Voyant and [this](https://www.kshs.org/p/abbie-bright-papers/13986) source (which is the same website that Bright’s digital archives were retrieved) to find the timeline and location of her travels. After accumulating the data, I organized it using Google sheet, which I learned to use for the first time by referencing the example [Jack Dougherty and Ilya Ilyankou](https://handsondataviz.org/mymaps.html) provided within the _Point Map with Google Maps_ tutorial. Here is the Google Sheets i created:
+![](https://lh3.googleusercontent.com/keep-bbsk/AGk0z-PcOAjult43G0At78kO2uwR_hITrWe6X6DXTthgT1JFNCwXM2xeJdyujuP8merdeqVMDmzYXNKp-zhBy_0oCZrXrvJzimZ1gIeHCxpRwJYz9LLZ=s512)
 
 However, when I uploaded the Google Sheet to Google Maps, I was unable to change the icon and colour of each location:
  
